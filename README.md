@@ -44,3 +44,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 `npx primsa init`
 
 `npx prisma migrate dev --name init`
+
+`npx shadcn-ui@latest init`
+
+`npx shadcn-ui@latest add card`
