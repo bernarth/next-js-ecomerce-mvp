@@ -48,3 +48,15 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 `npx shadcn-ui@latest init`
 
 `npx shadcn-ui@latest add card`
+
+`npx shadcn-ui@latest add button`
+
+`npx shadcn-ui@latest add table`
+
+`npx shadcn-ui@latest add label`
+
+`npx shadcn-ui@latest add input`
+
+`npx shadcn-ui@latest add textarea`
+
+`npm i zod`
